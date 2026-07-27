@@ -49,10 +49,16 @@ My background is rooted in automotive and logistics integrations, with hands-on 
       <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gitlab,jenkins" alt="Platform technologies" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔭 Observability</h3>
+      <h3>📡 Observability</h3>
       <p>Telemetry that helps teams detect issues quickly and understand what happened next.</p>
-      <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability technologies" />
-      <br />Grafana · Prometheus · Datadog · Kibana · Instana · Alertmanager
+      <p>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+        <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
+        <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana" />
+        <img src="https://img.shields.io/badge/Instana-1F6FEB?style=flat-square&logo=ibm&logoColor=white" alt="Instana" />
+        <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Alertmanager" />
+      </p>
     </td>
   </tr>
   <tr>
