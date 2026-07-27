@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1e3a8a,100:2563eb&height=180&section=header&text=Baftjar%20Tabaku&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Site%20Reliability%20Engineer%20%26%20Integration%20Developer&descAlignY=54&descSize=18" alt="header"/>
+<h1>👋 Hi, I'm <strong>Baftjar Tabaku</strong></h1>
+
+<h3>Site Reliability Engineer & Integration Developer</h3>
 
 <a href="https://btabaku.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Site+Reliability+Engineer+%F0%9F%9A%80;Enterprise+Integration+Developer+%F0%9F%94%8C;Kubernetes+%7C+GitOps+%7C+CI%2FCD+%E2%98%B8%EF%B8%8F;TIBCO+%7C+EDI+%7C+Messaging;Observability+%7C+On-Call+%7C+Automation+%F0%9F%93%8A" alt="Typing SVG" /></a>
 
@@ -91,4 +93,4 @@
   <img src="https://komarev.com/ghpvc/?username=baftit&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="profile views"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,60:1e3a8a,100:0d1117&height=100&section=footer" alt="footer"/>
+<br>
