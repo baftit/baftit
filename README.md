@@ -1,96 +1,125 @@
 <div align="center">
 
-<h1>👋 Hi, I'm <strong>Baftjar Tabaku</strong></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:172554,100:0f766e&height=190&section=header&text=Baftjar%20Tabaku&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Site%20Reliability%20%7C%20Enterprise%20Integration%20%7C%20Automation&descAlignY=60&descSize=16" alt="Baftjar Tabaku header" />
 
-<h3>Site Reliability Engineer & Integration Developer</h3>
+### Production systems. Reliable integrations. Better operations.
 
-<a href="https://btabaku.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Site+Reliability+Engineer+%F0%9F%9A%80;Enterprise+Integration+Developer+%F0%9F%94%8C;Kubernetes+%7C+GitOps+%7C+CI%2FCD+%E2%98%B8%EF%B8%8F;TIBCO+%7C+EDI+%7C+Messaging;Observability+%7C+On-Call+%7C+Automation+%F0%9F%93%8A" alt="Typing SVG" /></a>
+<a href="https://btabaku.com"><img src="https://img.shields.io/badge/Portfolio-btabaku.com-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/baftjar-tabaku"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bafti@btabaku.info"><img src="https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-[![Website](https://img.shields.io/badge/Website-btabaku.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://btabaku.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-baftjar--tabaku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baftjar-tabaku)
-[![GitLab](https://img.shields.io/badge/GitLab-btabaku-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/btabaku)
-[![Instagram](https://img.shields.io/badge/Instagram-btabaku-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/btabaku)
-[![Email](https://img.shields.io/badge/Email-bafti@btabaku.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bafti@btabaku.info)
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Keeping+production+boring+since+day+one.;Connecting+systems+that+need+to+talk.;Automating+the+work+that+shouldn't+be+manual.;Making+reliability+visible." alt="Typing introduction" />
 
 </div>
 
----
+<br />
 
-### 👨‍💻 About Me
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>⚙️ Platform</b><br /><sub>Containers · GitOps · Delivery</sub></td>
+    <td align="center" width="33%"><b>🔌 Integration</b><br /><sub>TIBCO · EDI · Messaging</sub></td>
+    <td align="center" width="33%"><b>📈 Reliability</b><br /><sub>Observability · Incidents · SLOs</sub></td>
+  </tr>
+</table>
 
-> SRE & Integration Developer from **Tirana, Albania** 🇦🇱 — bridging backend development and enterprise operations. I keep production alive, automate everything, and make systems observable.
+<br />
 
-- 🔭 **Integration Ops** @ **Lufthansa Industry Solutions** (Hamburg Süd · Maersk)
-- ☸️ Kubernetes, ArgoCD GitOps & zero-downtime CI/CD pipelines
-- 🔌 Enterprise integration with **TIBCO BW / EMS / BC**, EDI & XSLT
-- 📊 Observability stacks: Grafana, Prometheus, Datadog
-- 🎓 M.Sc. Computer Engineering @ **Epoka University** · B.Sc. 2019
-- ⚡ 24/7 on-call · incident response · automation with Python/Bash & AI tooling
+## `$ whoami`
 
----
+I’m a **Site Reliability Engineer and Integration Developer** based in Tirana, Albania 🇦🇱. I work at the boundary between backend engineering and production operations — helping critical services become easier to deploy, observe, troubleshoot, and trust.
 
-### 🛠️ Tech Stack
+My background is rooted in automotive and logistics integrations, with hands-on experience across enterprise middleware, cloud-native delivery, backend development, and 24/7 operational support.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Tirana%2C%20Albania-111827?style=flat-square&logo=googlemaps&logoColor=2dd4bf" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Production%20Reliability-111827?style=flat-square&logo=statuspage&logoColor=2dd4bf" alt="Focus" />
+  <img src="https://img.shields.io/badge/Mode-Automate%20%7C%20Observe%20%7C%20Improve-111827?style=flat-square&logo=probot&logoColor=2dd4bf" alt="Working mode" />
+</p>
+
+## `$ cat capabilities.md`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☸️ Platform engineering</h3>
+      <p>Containerized services, cluster operations, GitOps workflows, and safer release paths.</p>
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gitlab,jenkins" alt="Platform technologies" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔭 Observability</h3>
+      <p>Telemetry that helps teams detect issues quickly and understand what happened next.</p>
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability technologies" />
+      <br />Grafana · Prometheus · Datadog · Kibana · Instana · Alertmanager
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 Enterprise integration</h3>
+      <p>Reliable data exchange between business systems, services, and external partners.</p>
+      <p><b>TIBCO BW</b> · <b>TIBCO EMS</b> · <b>BusinessConnect</b><br />EDI/EDIFACT · XML · XSLT · XPath · Messaging</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌨️ Backend & automation</h3>
+      <p>Backend services and small operational tools that remove repetitive work.</p>
+      <img src="https://skillicons.dev/icons?i=java,spring,python,bash,gradle,git" alt="Backend technologies" />
+      <br />Hibernate · SQL · Oracle · Liquibase
+    </td>
+  </tr>
+</table>
+
+## `$ tail -f current-focus.log`
+
+```text
+[platform]       Making containerized services safer and simpler to run
+[delivery]       Building repeatable, Git-driven deployment workflows
+[observability]  Turning metrics, logs, and alerts into faster diagnosis
+[automation]     Replacing repetitive operational work with dependable tools
+```
+
+## 🧪 Lab environment
+
+I use personal labs to explore practical production problems:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes%20sandbox-Local%20clusters-172554?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes sandbox" />
+  <img src="https://img.shields.io/badge/Observability-Alerts%20%26%20dashboards-172554?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Observability lab" />
+  <img src="https://img.shields.io/badge/Automation-Python%20%26%20Bash-172554?style=for-the-badge&logo=python&logoColor=3776AB" alt="Automation lab" />
+</p>
+
+## 🎓 Certifications & education
+
+<table>
+  <tr>
+    <td>🏅</td><td><b>TIBCO BusinessWorks Certified Associate</b><br /><sub>TIBCO Software Inc.</sub></td>
+    <td>🏅</td><td><b>TIBCO Messaging Certified Associate</b><br /><sub>TIBCO Software Inc.</sub></td>
+  </tr>
+  <tr>
+    <td>🎓</td><td><b>M.Sc. Computer Engineering</b><br /><sub>Epoka University</sub></td>
+    <td>🎓</td><td><b>B.Sc. Computer Engineering</b><br /><sub>Epoka University · 2019</sub></td>
+  </tr>
+</table>
+
+## 📊 GitHub activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=baftit&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=2dd4bf&icon_color=60a5fa&text_color=c9d1d9" alt="Baftjar's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baftit&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" alt="Baftjar's most used languages" />
+</div>
+
+<br />
 
 <div align="center">
 
-**DevOps & Platform**
+### Let’s build systems people can depend on.
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+[![Website](https://img.shields.io/badge/Explore%20my%20work-btabaku.com-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://btabaku.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baftjar-tabaku)
 
-**Observability**
+<br />
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Instana](https://img.shields.io/badge/Instana-1F6FEB?style=for-the-badge&logoColor=white)
-
-**Enterprise Integration**
-
-![TIBCO BW](https://img.shields.io/badge/TIBCO_BusinessWorks-EC4D37?style=for-the-badge&logoColor=white)
-![TIBCO EMS](https://img.shields.io/badge/TIBCO_EMS-EC4D37?style=for-the-badge&logoColor=white)
-![TIBCO BC](https://img.shields.io/badge/TIBCO_BusinessConnect-EC4D37?style=for-the-badge&logoColor=white)
-![EDI](https://img.shields.io/badge/EDI_/_EDIFACT-1e3a8a?style=for-the-badge&logoColor=white)
-![XSLT](https://img.shields.io/badge/XSLT_/_XML_/_XPath-1e3a8a?style=for-the-badge&logoColor=white)
-
-**Backend & Data**
-
-![Java](https://img.shields.io/badge/Java_/_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=baftit&style=flat-square&color=14b8a6&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
-
----
-
-### 📜 Certifications & Education
-
-- 🏅 **TCA – TIBCO BusinessWorks Certified Associate** · TIBCO Software Inc.
-- 🏅 **TCA – TIBCO Messaging Certified Associate** · TIBCO Software Inc.
-- 🎓 **M.Sc. Computer Engineering** — Epoka University *(2019 – Present)*
-- 🎓 **B.Sc. Computer Engineering** — Epoka University *(2016 – 2019)*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=baftit&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baftit&theme=github_dark" alt="GitHub stats"/>
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baftit&theme=github_dark" alt="Profile details"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baftit&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="profile views"/>
-</div>
-
-<br>
