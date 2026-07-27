@@ -111,15 +111,23 @@ I use personal labs to explore practical production problems:
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=baftit&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=2dd4bf&icon_color=60a5fa&text_color=c9d1d9" alt="Baftjar's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baftit&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" alt="Baftjar's most used languages" />
+  <a href="https://github.com/baftit">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=baftit&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=2dd4bf&icon_color=60a5fa&text_color=c9d1d9" alt="" />
+  </a>
+  <a href="https://github.com/baftit">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baftit&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" alt="" />
+  </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/baftit"><img src="https://img.shields.io/badge/Explore%20my%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" /></a>
+</p>
 
 <br />
 
 <div align="center">
 
-### Let’s build systems people can depend on.
+### 🚀 Let’s build systems people can depend on.
 
 [![Website](https://img.shields.io/badge/Explore%20my%20work-btabaku.com-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://btabaku.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baftjar-tabaku)
